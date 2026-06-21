@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Banothu Sai Sangeeth<br><br>🎓 Computer Science Engineering Student at IARE<br><br>💡 Passionate about Artificial Intelligence, Full-Stack Development, Cloud Computing, and Software Engineering<br><br>🚀 Building real-world projects using Java, Python, React, FastAPI, MongoDB, and AWS<br><br>🏆 Hackathon Participant | AI Enthusiast | Continuous Learner<br><br>📫 Open to collaboration and innovative opportunities
+👋 Hi, I'm Banothu Sai Sangeeth<br><br>🎓 Computer Science Engineering Student at IARE<br><br>💡 Passionate about Artificial Intelligence, Full-Stack Development, Cloud Computing, and Software Engineering<br><br>🚀 Building real-world projects using Java, Python, React, FastAPI, MongoDB, and AWS<br><br>🏆 AI Developer | Full Stack Developer | Hackathon Enthusiast<br><br>📫 Open to collaboration and innovative opportunities
 
 
 ## 🌐 Socials:
